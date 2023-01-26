@@ -1,0 +1,13 @@
+{
+    "Pwn Adventure 3": {
+        "price": 0.0,
+        "subscription": false,
+        "difficulty_base": 1,
+        "difficulty_growth": 0.0,
+        "difficulty_ticks": 0.0,
+        "rewards": 1.0,
+        "workers": 0,
+        "currency": 0.0,
+        "population": 0
+    }
+}
